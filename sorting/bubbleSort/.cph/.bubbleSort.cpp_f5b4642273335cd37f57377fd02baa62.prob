@@ -1,0 +1,1 @@
+{"name":"Local: bubbleSort","url":"/mnt/c/Users/Jas/dev/tutorials/dsaC++/sorting/bubbleSort/bubbleSort.cpp","tests":[{"id":1691700813347,"input":"7\n10 2 3 6 18 1 5","output":"1 2 3 5 6 10 18"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/mnt/c/Users/Jas/dev/tutorials/dsaC++/sorting/bubbleSort/bubbleSort.cpp","group":"local","local":true}

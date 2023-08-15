@@ -1,0 +1,1 @@
+{"name":"Local: octalToDecimal","url":"/mnt/c/Users/Jas/dev/tutorials/dsaC++/basicMaths/octalToDecimal/octalToDecimal.cpp","tests":[{"id":1691694107131,"input":"137","output":"95"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/mnt/c/Users/Jas/dev/tutorials/dsaC++/basicMaths/octalToDecimal/octalToDecimal.cpp","group":"local","local":true}
